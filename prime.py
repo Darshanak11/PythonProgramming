@@ -1,1 +1,0 @@
-# Yet to type the prime.py
