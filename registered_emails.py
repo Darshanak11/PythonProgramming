@@ -14,5 +14,4 @@ def register_user():
     else:
         print("All users registered successfully")
 
-# Call the function to start the registration process
 register_user()
